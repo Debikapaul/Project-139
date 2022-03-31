@@ -21,6 +21,11 @@ body
     font-size: 22px;
 }
 
+.modal-body{
+    text-align: left;
+    font-size: 20px; 
+} 
+
 .copy_right_footer{
     width: 100%;
     line-height: 3;
